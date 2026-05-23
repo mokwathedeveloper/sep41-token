@@ -365,7 +365,7 @@ stellar contract invoke \
 
 | Network | Contract ID |
 |---------|-------------|
-| Testnet | *(paste contract ID here after deployment)* |
+| Testnet | `CBGDBJWSANH6PMASKBPQZGAISDPJA6RT2YIOPFLYN7M324DCP7OZJFEU` |
 
 ---
 
